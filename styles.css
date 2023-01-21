@@ -56,9 +56,14 @@ body {
 }
 
 .wrapper .save-btn{
-    color: white;
+    color: #fff;
     margin-top: 20px;
     padding: 16px 0;
     cursor: pointer;
     background: #F48484;
+}
+
+.velpcode {
+    height: 50px;
+
 }
